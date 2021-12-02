@@ -7,7 +7,7 @@
 | Retry Logic | Natalia | 0% |
 | SOCKS Proxy | Mana | 0% |
 | Win HTTP | Mana | 0% |
-| H/3 Quic | Mana | 0% |
+| H/3 Quic | Mana | 100% |
 | HTTP butter | ? | 0% |
 | **Sockets** | Anton | 0% |
 | **Security** | Mana | 0% |
