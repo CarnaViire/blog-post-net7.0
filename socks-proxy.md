@@ -16,9 +16,7 @@ var client = new HttpClient(new HttpClientHandler()
     Proxy = new WebProxy("socks5://127.0.0.1:9050")
 });
 
-var response = await client.GetAsync("https://check.torproject.org/");
-Console.WriteLine(response);
-var content = await response.Content.ReadAsStringAsync();
+var content = await client.GetStringAsync("https://check.torproject.org/");
 Console.WriteLine(content);
 ```
 This example assumes you're running `tor` instance on your computer. If the request succeeds you should be able to find "**Congratulations. This browser is configured to use Tor.**" in the response content.
