@@ -10,7 +10,7 @@ SOCKS proxy is very versatile tool. For example, it can provide similar function
 
 To configure `HttpClient` to use SOCKS proxy, you only need to use proper `socks` schema when defining the proxy[^socks]:
 ```C#
-var client = new HttpClient(new HttpClientHandler()
+var client = new HttpClient(new SocketsHttpHandler()
 {
     // Specify the whole Uri (schema, host and port) as one string or use Uri directly.
     Proxy = new WebProxy("socks5://127.0.0.1:9050")
