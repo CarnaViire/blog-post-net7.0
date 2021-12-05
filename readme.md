@@ -12,5 +12,5 @@
 | **Sockets** | Anton | 0% |
 | **Security** | Mana | 0% |
 | **Diagnostics** | Mana | 100% |
-| **URI** | Natalia | 0% |
+| **URI** | Natalia | 100% |
 | Mention/Link the rest in other blog post | ? | 0% |
