@@ -4,7 +4,7 @@
 | Topic | Author | Progress |
 |-------|--------|----------|
 | **HTTP** | | |
-| Retry Logic | Natalia | 0% |
+| Retry Logic | Natalia | 100% |
 | SOCKS Proxy | Mana | 0% |
 | Win HTTP | Mana | 0% |
 | H/3 Quic | Mana | 100% |
