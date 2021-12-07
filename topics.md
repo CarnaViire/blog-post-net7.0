@@ -79,3 +79,5 @@
 https://microsoft.sharepoint.com/teams/netfx/corefx/_layouts/15/Doc.aspx?sourcedoc=%7B0cfbc196-0645-4781-84c6-5dffabd76bee%7D&action=edit&wd=target(Networking.one%7C7f7a68c9-55b6-465a-9c30-bab26b5f7d82%2F6.0%20features%7Cffda5285-ba9c-40e2-9bfe-230a912c5681%2F)&share=IgGWwfsMRQaBR4TGXf-r12vuAatLtaaTfyKdaMWZg7LmBVU
 
 https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/#networking
+
+https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-5/

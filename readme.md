@@ -5,7 +5,7 @@
 |-------|--------|----------|
 | **HTTP** | | |
 | Retry Logic | Natalia | 0% |
-| SOCKS Proxy | Mana | 0% |
+| SOCKS Proxy | Mana | 100% |
 | Win HTTP | Mana | 100% |
 | H/3 Quic | Mana | 100% |
 | HTTP butter | ? | 0% |
